@@ -22,11 +22,9 @@ const illustration = {
 const greeting = {
   username: "James",
   title: "Hi, I'm James",
-  subTitle: 
-    "A passionate amateur programmer. having an experience of building games and mobile apps in Unity."
-  ,
-  resumeLink:
-    "", // Set to empty to hide the button
+  subTitle:
+    "A passionate amateur programmer. having an experience of building games and mobile apps in Unity.",
+  resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
